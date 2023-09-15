@@ -2,7 +2,8 @@
 ### *A Little About Me...*
 ---
 My name is Noah, and I'm currently a student at Georiga Institute of Technology, studying Computer Science (B.S.) with concentrations in Intelligence, and Information Internetworks.
-
+- I'm currently interested in AI Models, and AWS Cloud Computing
+- I'm always looking for new technologies to study!
 
 <!--
 **Noah0Chin/Noah0Chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
