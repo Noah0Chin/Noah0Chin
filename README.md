@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Hey Whats Up! 👍
+### *A Little About Me...*
+---
+My name is Noah, and I'm currently a student at Georiga Institute of Technology, studying Computer Science (B.S.) with concentrations in Intelligence, and Information Internetworks.
+
 
 <!--
 **Noah0Chin/Noah0Chin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
