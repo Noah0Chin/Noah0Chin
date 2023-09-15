@@ -6,7 +6,7 @@ My name is Noah, and I'm currently a student at Georiga Institute of Technology,
 - I'm currently interested in AI Models, and AWS Cloud Computing
 - I'm always looking for new technologies to study!
 
-#### Here are some of my skills!
+#### Here are some of the technologies I'm interested in!
 
 [![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,python,bootstrap,js,html,css,flask,github,emacs,vscode&perline=5)](https://skillicons.dev)
 
