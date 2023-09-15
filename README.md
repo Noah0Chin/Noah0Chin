@@ -8,7 +8,7 @@ My name is Noah, and I'm currently a student at Georiga Institute of Technology,
 
 #### Here are some of the technologies I'm interested in!
 
-![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea,&perline=5)
+![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea)
 #### 📫 Contact Info
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/219533450439294977)
