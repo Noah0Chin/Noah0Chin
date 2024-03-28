@@ -17,7 +17,7 @@ My name is Noah, and I'm currently a student at Georiga Institute of Technology,
 - CS 2340 Objects & Design
 - MATH 3012 Applied Combinatorics
 - ISYE 3770 Statistics & Applications
-- 
+  
 #### 📫 Contact Info
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/219533450439294977)
