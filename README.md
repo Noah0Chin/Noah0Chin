@@ -7,7 +7,7 @@ My name is Noah, and I'm currently a student at Georiga Institute of Technology,
 - I'm always looking for new technologies to study!
 
 
-#### Here are some of the technologies I have used!
+#### Here are some of the technologies I use!
 
 ![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea,androidstudio,firebase,docker,git,figma,latex,notion&perline=7)
 
