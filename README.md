@@ -9,7 +9,7 @@ My name is Noah, and I'm currently a student at Georiga Institute of Technology,
 
 #### Here are some of the technologies I have used!
 
-![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea)
+![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea,androidstudio,firebase,docker,git,figma,latex,notion)
 
 #### 🌱 I’m currently learning/taking:
 - CS 3510 Design & Analysis of Algorithms
