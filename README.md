@@ -1,14 +1,23 @@
 ## Hey Whats Up! 👍
 ### *A Little About Me...*
 ---
-My name is Noah, and I'm currently a student at Georiga Institute of Technology, studying Computer Science (B.S.) with concentrations in Intelligence, and Information Internetworks.
+My name is Noah, and I'm currently a student at Georiga Institute of Technology, studying Computer Science (B.S.) with concentrations in Intelligence, and Systems & Architecture.
 
-- I'm currently interested in AI Models, and AWS Cloud Computing
+- I'm currently interested in AI Models, AWS Cloud Computing, and various Computer Architecture topics.
 - I'm always looking for new technologies to study!
 
-#### Here are some of the technologies I'm interested in!
+
+#### Here are some of the technologies I have used!
 
 ![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea)
+
+#### 🌱 I’m currently learning/taking:
+- CS 3510 Design & Analysis of Algorithms
+- CS 2200 Systems and Networks
+- CS 2340 Objects & Design
+- MATH 3012 Applied Combinatorics
+- ISYE 3770 Statistics & Applications
+- 
 #### 📫 Contact Info
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/219533450439294977)
