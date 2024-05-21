@@ -11,12 +11,9 @@ My name is Noah, and I'm currently a student at Georiga Institute of Technology,
 
 ![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea,androidstudio,firebase,docker,git,figma,latex,notion&perline=7)
 
-#### 🌱 I’m currently learning/taking:
-- CS 3510 Design & Analysis of Algorithms
-- CS 2200 Systems and Networks
-- CS 2340 Objects & Design
-- MATH 3012 Applied Combinatorics
-- ISYE 3770 Statistics & Applications
+#### 🌱 What I'm building this summer:
+- Liquid Staking Protcol and ETH Bridging for BitTensor
+- Creating an AI Subnet for BitTensor
   
 #### 📫 Contact Info
 
