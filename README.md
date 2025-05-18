@@ -10,10 +10,6 @@ My name is Noah, and I'm currently a student at Georiga Institute of Technology,
 #### Here are some of the technologies I use!
 
 ![My Skills](https://skillicons.dev/icons?i=java,swift,cpp,c,py,bootstrap,js,html,css,flask,github,emacs,vscode,visualstudio,idea,androidstudio,firebase,docker,git,figma,latex,notion&perline=7)
-
-#### 🌱 What I'm building this summer:
-- Liquid Staking Protcol and ETH Bridging for BitTensor
-- Creating an AI Subnet for BitTensor
   
 #### 📫 Contact Info
 
